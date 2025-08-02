@@ -1,0 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: aws-ssm-with-least-privilege-users-on-ec2s
+  description: Using pre-defined users on EC2s with AWS SSM for least privilege SSH
+  tags:
+    - aws
+    - aws
+  annotations:
+    displayName: SSM & Pre-defined users for least privilege SSH
+    github.com/project-slug: the-aeydr/aws-ssm-with-least-privilege-users-on-ec2s
+spec:
+  type: documentation
+  lifecycle: experimental
