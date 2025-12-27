@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you refer to this article, please cite it as below."
+
+version: 1.0.0
+date-released: 2023-07-16
+title: "SSM & Pre-defined users for least privilege SSH"
+url: "https://writing.aeydr.dev/notes/aws-ssm-with-least-privilege-users-on-ec2s"
+authors:
+- given-names: "aeydr"
+
+preferred-citation:
+  type: article
+  journal: "The Architectural Decision Record"
+  authors:
+  - given-names: "aeydr"
+
+  title: "SSM & Pre-defined users for least privilege SSH"
+  month: 07
+  year: 2023
